@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=solhc" alt="solhc" /></a> </p>
 
-- 🔭 Actualmente trabajo dando apoyo a cursos en línez [Cursos en línea de Plc's](https://plcenpractica.com/)
+- 🔭 Actualmente trabajo dando apoyo a cursos en línea [Cursos en línea de Plc's](https://plcenpractica.com/)
 
-- 🌱 Actualmente estoy aprendiendo **Desarrollo web, javascript, ReacJs Desarrollo de aplicaciones**
+- 🌱 Actualmente estoy aprendiendo **Desarrollo web, Javascript, ReacJs, Desarrollo de aplicaciones**
 
 - 📫 Puedes escribirme al email **marisol1208@gmail.com**
 

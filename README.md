@@ -1,9 +1,7 @@
 <h1 align="center">Hola 👋,soy Marisol Hernández</h1>
 <h3 align="center">Una desarrolladora web de México</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=solhc&label=Profile%20views&color=0e75b6&style=flat" alt="solhc" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=solhc" alt="solhc" /></a> </p>
 
 - 🔭 Actualmente trabajo dando apoyo a cursos en línea [Cursos en línea de Plc's](https://plcenpractica.com/)
 
@@ -11,7 +9,7 @@
 
 - 📫 Puedes escribirme al email **marisol1208@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
